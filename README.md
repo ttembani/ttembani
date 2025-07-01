@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Thulisa Tembani
 
-<!--
-**ttembani/ttembani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate Software Developer from South Africa, specializing in Python, AI tools, and full-stack development.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 🐍 Python, Flask
+- 🎨 HTML, CSS, JavaScript
+- 💻 CustomTkinter, OpenCV
+- ☁️ Firebase, MongoDB, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Pinned Projects
+- 🧠 [Smart Exam Helper](https://github.com/ttembani/smart_exam_helper_@2)
+- 🎨 [Cartoonify App](https://github.com/ttembani/cartoonify-app)
+- 📷 [AI Emotion Detector](https://github.com/ttembani/emotion-detector)
+- 📡 [Real-Time Chat App](https://github.com/ttembani/echo-chat)
+
+## 📫 Contact Me
+
+- 🌐 [Portfolio Website](https://ttembani.github.io/TTembani_Portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thulisa-tembani/)
+- 📧 Email: tembanithulisa2@gmail.com
